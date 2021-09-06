@@ -1,0 +1,11 @@
+.transactionHistory {
+width: 100%;
+}
+
+.tableHead {
+background-color: rgb(201, 176, 124);
+}
+
+.tableItem {
+background-color: rgb(209, 197, 164);  
+}
